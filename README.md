@@ -1,2 +1,2 @@
-# MLops
-Data Scientist Learning Project
+# Python-Basics
+Learning
